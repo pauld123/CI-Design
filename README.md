@@ -18,6 +18,7 @@ Here are some basic notes:
 4. Forum is a seperate system and issue all by itself.
 5. Accessibility and cross browser display is very important
 6. We want to make CI look beautiful.
+7. Everything we do here is open source under the MIT licence.
 
 I may have missed many things here but this is just the start.
 
