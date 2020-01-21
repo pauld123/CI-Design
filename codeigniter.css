@@ -1,0 +1,52 @@
+/* General */
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+/* Buttons */
+.btn-ci { 
+	border-color: #cf3c0b; 
+	background-color: #e1501f; 
+	color:#ffffff;
+}
+.btn-ci:hover { 
+	background-color: #cf3c0b;
+	color:#cccccc;
+}
+
+/* Section: Intro */
+#intro {
+    background-color: #f8f9fa;
+	padding-top: 70px;
+	padding-bottom: 0px;
+}
+.divider_curve_white {
+	height: 250px;
+	background:	url(images/backgrounds/background-curve-white.png) bottom center repeat-x;
+}
+
+/* Section: Choosing codeigniter */
+#choosing_codeigniter {
+	padding-top: 50px;
+}
+
+/* Section: Footer */
+#footer {
+	margin-top: 50px;
+	padding-bottom: 30px;
+	background-color: #dd4814;
+}
+.divider_curve_white_down {
+	height: 100px;
+	background:	url(images/backgrounds/background-curve-white-down.png) top center repeat-x;
+}
+
+
+/* Section: Foot Note */
+#foot_note {
+	margin: 15px 0px 15px 0px;
+}
+.foot_note_text {
+	color: #777777;
+	margin-bottom: 0px;
+}
