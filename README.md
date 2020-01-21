@@ -1,5 +1,9 @@
+# Update
+I have made a rough start recreating the design. On a spare domain I have hosted the HTML and CSS on http://www.bigpocketbook.co.uk/
+
+
 # CI-Design
-For the HTML and CSS of the CI Website Design
+For the HTML and CSS of the CI Website Design.
 
 The idea here is that the code will be available for the design working group to play with at will. By keeping it as plain HTML does introduce problems like repeating headers etc, but that is minimal problem as this is a fairly simple site. The more important things like the LEARN section might need to wait for a while.
 
