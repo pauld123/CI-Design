@@ -1,2 +1,24 @@
 # CI-Design
-For the HTML of the CI Website Design
+For the HTML and CSS of the CI Website Design
+
+The idea here is that the code will be available for the design working group to play with at will. By keeping it as plain HTML does introduce problems like repeating headers etc, but that is minimal problem as this is a fairly simple site. The more important things like the LEARN section might need to wait for a while.
+
+I will make a start on this but please feel free to chime in on anything and at anytime. All help is welcomed, this is a community project and although we will all have different ideas, we should be able to come to a consensus.
+
+Decisions will be taken by the CI Design working group in votes which will be final (at least in what we propose to the foundation board who will of course retain final say in any published CI website).
+
+We will be base the design on the winning design by Jorge Armando. However there will be changes to that design as we progress.
+
+There are many ways to do any design in CSS and I am not suggesting for one second the way I do it is the best. But we have to start somewhere so please, critique, suggest, clone, branch and all that lovely stuff to your hearts content. 
+
+Here are some basic notes:
+1. Bootstrap will be used.
+2. Jquery will be used minimally.
+3. Mobile first (even though the forum on CI fails this entirley)
+4. Forum is a seperate system and issue all by itself.
+5. Accessibility and cross browser display is very important
+6. We want to make CI look beautiful.
+
+I may have missed many things here but this is just the start.
+
+Paul.
