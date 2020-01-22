@@ -40,7 +40,13 @@ body {
 	height: 100px;
 	background:	url(images/backgrounds/background-curve-white-down.png) top center repeat-x;
 }
-
+.footer_link:link, .footer_link:hover, .footer_link:active {
+	color: #dddddd;
+}
+.footer_link:hover {
+	color: #ffffff;
+	text-decoration: underline;
+}
 
 /* Section: Foot Note */
 #foot_note {
