@@ -1,5 +1,5 @@
 # Update 2
-I have altered the logo to be more in line with current version. Fiddled with the home page quite a bit. Added to top nav HTML pages and started on the download page. Added some badges on the homepage but I think we need more icons and 3 more reasons why.
+I have altered the logo to be more in line with current version. Fiddled with the home page quite a bit. Added the top nav HTML pages and started on the download page. The rest are empty pretty much at the moment. I think the homepage sells CI quite well now but can still be improved. It needs a call to action of some sort before the footer. When I have some more time I will get more done. If anyone wants to help please do!
 
 # Update 1
 I have made a rough start recreating the design. On a spare domain I have hosted the HTML and CSS on http://www.bigpocketbook.co.uk/
