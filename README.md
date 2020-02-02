@@ -1,4 +1,7 @@
-# Update
+# Update 2
+I have altered the logo to be more in line with current version. Fiddled with the home page quite a bit. Added to top nav HTML pages and started on the download page. Added some badges on the homepage but I think we need more icons and 3 more reasons why.
+
+# Update 1
 I have made a rough start recreating the design. On a spare domain I have hosted the HTML and CSS on http://www.bigpocketbook.co.uk/
 
 
