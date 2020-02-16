@@ -3,6 +3,17 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
+/* Header Navigation */
+.bg-light {
+	background-color: #f8f9fa !important;
+	border-bottom: 1px solid #eee;
+}
+navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+	color: rgba(255, 255, 255, 0.9); 
+	background:#e1501f; 
+	border-radius: 3px;
+}
+
 /* Buttons */
 .btn-ci { 
 	border-color: #cf3c0b; 
@@ -22,11 +33,11 @@ body {
 }
 .divider_curve_white {
 	height: 250px;
-	background:	url(images/backgrounds/background-curve-white.png) bottom center repeat-x;
+	background:	url(../images/backgrounds/background-curve-white.png) bottom center repeat-x;
 }
 
-/* Section: Choosing codeigniter */
-#choosing_codeigniter {
+/* Sections: General Usage */
+.white_content {
 	padding-top: 50px;
 }
 
@@ -38,7 +49,7 @@ body {
 }
 .divider_curve_white_down {
 	height: 100px;
-	background:	url(images/backgrounds/background-curve-white-down.png) top center repeat-x;
+	background:	url(../images/backgrounds/background-curve-white-down.png) top center repeat-x;
 }
 .footer_link:link, .footer_link:hover, .footer_link:active {
 	color: #dddddd;
