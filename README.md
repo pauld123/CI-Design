@@ -1,4 +1,4 @@
-#Update 3
+# Update 3
 Added a horizontal line to the topnav. I think this looks much better. Thanks to demyr17 for this. Also added another suggestion from demyr17 but I think it is supposed to put a button affect around the top nav but cannot see it. Left it in the CSS for now.
 
 # Update 2
