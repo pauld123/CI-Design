@@ -8,6 +8,7 @@ body {
 	background-color: #f8f9fa !important;
 	border-bottom: 1px solid #eee;
 }
+/* This line suggested by demyr17 seems to have no affect - left it for now as I believe its intent is good - dont know how to fix it */
 navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
 	color: rgba(255, 255, 255, 0.9); 
 	background:#e1501f; 
