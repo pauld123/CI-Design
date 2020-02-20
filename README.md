@@ -1,3 +1,6 @@
+# Update 3
+Added a horizontal line to the topnav. I think this looks much better. Thanks to demyr17 for this. Also added another suggestion from demyr17 but I think it is supposed to put a button affect around the top nav but cannot see it. Left it in the CSS for now.
+
 # Update 2
 I have altered the logo to be more in line with current version. Fiddled with the home page quite a bit. Added the top nav HTML pages and started on the download page. The rest are empty pretty much at the moment. I think the homepage sells CI quite well now but can still be improved. It needs a call to action of some sort before the footer. When I have some more time I will get more done. If anyone wants to help please do!
 
