@@ -1,3 +1,6 @@
+# Update 4
+InsiteFX and demyr17 are both now collaborators to this project. Have moved the files to an assets folder for images and css etc. The downloads page by demyr I am not certain I like but it is at least a start. Have updated the temp website with the files too.
+
 # Update 3
 Added a horizontal line to the topnav. I think this looks much better. Thanks to demyr17 for this. Also added another suggestion from demyr17 but I think it is supposed to put a button affect around the top nav but cannot see it. Left it in the CSS for now.
 
